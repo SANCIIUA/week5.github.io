@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+body{
+    background-color: azure;
+}
+h3{
+    font-size: 5em;
+    font-family: 'Rubik Bubbles', cursive; ;
+}
+#img{
+    float: left;
+    position: relative;
+    left: 26em;
+    bottom: 3em;
+}
+#img2{
+    float: left;
+    position: relative;
+    left: 20em;
+    bottom: 4em;   
+}
+table{
+    position: relative;
+    right: 18em;
+}
